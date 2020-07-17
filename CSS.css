@@ -10,7 +10,7 @@ body {
 }
 
 .red-nice-day {
-    display: inline-block;
+    display: block;
     width: 400px;
     padding: 10px;
     color: #FF9AA2;
