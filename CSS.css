@@ -1,15 +1,22 @@
-* {
-background-color: #ffffe5;
+body {
+    margin: 15px;
+    background-color: #ffffe5;
 }
+
 .mountains {
     border-style: double;
     border-color: #FF9AA2;
     border-width: 10px;
-
 }
-.red-nice-day{
+
+.red-nice-day {
+    display: inline-block;
+    width: 400px;
+    padding: 10px;
+    color: #FF9AA2;
     border-left-style: solid;
     border-bottom-style: solid;
+    border-right-style: hidden;
     border-color: #FF9AA2;
     background-color: #FFB7B2;
 }
