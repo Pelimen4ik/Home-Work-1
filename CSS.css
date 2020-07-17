@@ -1,0 +1,15 @@
+* {
+background-color: #ffffe5;
+}
+.mountains {
+    border-style: double;
+    border-color: #FF9AA2;
+    border-width: 10px;
+
+}
+.red-nice-day{
+    border-left-style: solid;
+    border-bottom-style: solid;
+    border-color: #FF9AA2;
+    background-color: #FFB7B2;
+}
